@@ -1,0 +1,9 @@
+What it does                                    --Command
+-------------------------------------------------------------
+change directory                                --Cd <file or . for back>
+clone from github to computer                   --git clone <repo url>
+put after cloning?                              --git remote add origin <repo url>
+status                                          --git status
+add                                             --git add .
+commit                                          --git commit -m "message"
+push                                            --git push origin master
