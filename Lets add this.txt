@@ -1,6 +1,3 @@
 Hello Moto
 Hello Moto
-Hello Moto
-Hello Moto
-Hello Moto
-Hello Moto
+Hello Dodo
